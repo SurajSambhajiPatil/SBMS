@@ -16,9 +16,8 @@ public class Application {
 		ProductRepository repository = context.getBean(ProductRepository.class);
 		
 		Product p1 = new Product();
-		p1.setPid(104);
-		p1.setPname("SSD");
-	
+		p1.setPname("Mouse");
+	    p1.setPrice(200);
 		
 		repository.save(p1);
 	}
