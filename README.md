@@ -1,2 +1,4 @@
 # SBMS
-Spring Boot &amp; Microservices 
+Spring Boot & Microservices 
+
+This is my Spring Boot & Microservices lectures source code .
